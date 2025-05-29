@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pandas
+pytesseract
+pillow
+tensorflow
+python-dotenv
+openai
